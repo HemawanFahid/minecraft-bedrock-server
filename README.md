@@ -13,7 +13,7 @@
   Set server.properties as environment varialbes.
   
   
-  | Environemnt Variables                      | Properties                                 | Default          |
+| Environemnt Variables                      | Properties                                 | Default          |
 | ------------------------------------------ | ------------------------------------------ | ---------------- |
 | SERVER_NAME                                | server-name                                | Dedicated Server |
 | GAMEMODE                                   | gamemode                                   | survival         |
